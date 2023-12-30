@@ -1,0 +1,15 @@
+C:\Repos\CalcWindowsForms\bin\Release\CalcWindowsForms.exe.config
+C:\Repos\CalcWindowsForms\bin\Release\CalcWindowsForms.exe
+C:\Repos\CalcWindowsForms\bin\Release\CalcWindowsForms.pdb
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.csproj.AssemblyReference.cache
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.Calc.resources
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.Properties.Resources.resources
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.csproj.GenerateResource.cache
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.csproj.CoreCompileInputs.cache
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.exe
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.pdb
+C:\Repos\CalcWindowsForms\bin\Release\CalcWindowsForms.exe.manifest
+C:\Repos\CalcWindowsForms\bin\Release\CalcWindowsForms.application
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.exe.manifest
+C:\Repos\CalcWindowsForms\obj\Release\CalcWindowsForms.application
