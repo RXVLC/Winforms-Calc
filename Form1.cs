@@ -43,7 +43,7 @@ namespace CalcWindowsForms
 
         private void backSpace(object sender, EventArgs e)
         {
-            if (txtResultado.Text != "0")
+            if (txtResultado.Text != "0" && txtResultado.Text != "")
             {
                 txtResultado.Text = txtResultado.Text.Substring(0, txtResultado.Text.Length - 1);
             }
